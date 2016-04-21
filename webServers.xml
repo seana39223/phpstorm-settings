@@ -4,6 +4,9 @@
       <webServer id="8c4864c5-a363-4da1-a2d2-82ae59d9fa45" name="Dmn Tickets Scanner" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="b3fc2aac-171c-4dfd-9869-a7ea72ec8e34" name="tonicticketing-frontent" url="http://127.0.0.1:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
