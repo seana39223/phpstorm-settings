@@ -7,6 +7,9 @@
       <webServer id="b3fc2aac-171c-4dfd-9869-a7ea72ec8e34" name="tonicticketing-frontent" url="http://127.0.0.1:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f3630757-6629-4360-ab3f-df11c4441061" name="Dmn Frontend" url="http://dev.designmynight.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
