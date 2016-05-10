@@ -1,6 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,12 +12,12 @@
       <mask>*.mxml</mask>
       <mask>*.js, *.html</mask>
       <mask>*.php, *.tpl</mask>
-      <mask>*.js</mask>
       <mask>*.*js</mask>
       <mask>*.*</mask>
       <mask>*.tpl, *.php</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
