@@ -4,7 +4,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -18,11 +18,11 @@
       <mask>*.*js</mask>
       <mask>*.*</mask>
       <mask>*.tpl, *.php</mask>
-      <mask>*.php</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
       <mask>*.tpl</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
