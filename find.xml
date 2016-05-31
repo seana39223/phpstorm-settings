@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,10 +17,10 @@
       <mask>*.*</mask>
       <mask>*.tpl, *.php</mask>
       <mask>*.html</mask>
-      <mask>*.tpl</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
