@@ -13,9 +13,6 @@
       <webServer id="e389e033-79d4-4f74-a1ff-068d57c26a09" name="Dmn admin" url="http://admin-dev.designmynight.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="e37d23f9-d537-4dc6-81d3-303b9036d6d2" name="EateApi" url="http://127.0.01:8000">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
