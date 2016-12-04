@@ -23,6 +23,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="s" />
+  </action>
   <action id="com.jetbrains.plugins.vagrant.actions.VagrantProvisionAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="p" />
   </action>
