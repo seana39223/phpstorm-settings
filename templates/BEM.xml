@@ -1,0 +1,14 @@
+<templateSet group="BEM">
+  <template name="mod" value="@include modifier( '$MODIFIER$' ){&#10;  $END$ &#10;}" description="@include modifier" toReformat="false" toShortenFQNames="true">
+    <variable name="MODIFIER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="el" value="@include element( '$ELEMENT$' ){&#10;  $END$&#10;}" description="@include element" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
