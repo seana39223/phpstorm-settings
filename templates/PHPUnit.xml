@@ -1,0 +1,11 @@
+<templateSet group="PHPUnit">
+  <template name="func" value="/**&#10; * $TEST$&#10; * @test&#10; * @covers $COVER_FUCNTION$&#10; */&#10;public function it_$TEST_NAME$( $VARS$ ) {&#10;    $END$&#10;}" description="PHPUnit test function" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COVER_FUCNTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_NAME" expression="snakeCase(TEST)" defaultValue="" alwaysStopAt="false" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
