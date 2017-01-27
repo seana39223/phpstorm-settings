@@ -8,4 +8,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="@data" value="@dataProvider $PROVIDER$" description="dataProvider doc" toReformat="false" toShortenFQNames="true">
+    <variable name="PROVIDER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
 </templateSet>
