@@ -2,10 +2,10 @@
   <template name="dd" value="var_dump( $VAR$ );die;" description="dump die" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Comment" value="false" />
-      <option name="PHP Class Member" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP String Literal" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
     </context>
   </template>
 </templateSet>
