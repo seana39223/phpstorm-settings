@@ -1,0 +1,42 @@
+<templateSet group="Jasmine">
+  <template name="before" value="beforeEach( function(){&#10;  $END$&#10;})" description="beforeEach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="aft" value="afterEach( function(){&#10;  $END$;&#10;})" description="afterEach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it( '$TEST$', function(){&#10;  $END$;&#10;});" description="Jasmine Spec" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="describe( '$DESC$', function(){&#10;  $END$&#10;})" description="Jasmine Describe" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="inj" value="inject( function( $INJECTION$ ){&#10;  $INJECTED$ = $INJECTION$;&#10;}&#10;$END$" description="Inject" toReformat="false" toShortenFQNames="true">
+    <variable name="INJECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INJECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="spy" value="spyOn( $OBJECT$, '$FUNCTION_NAME$' )$END$" description="spyOn" toReformat="false" toShortenFQNames="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="expect" value="expect( $RESULT$ ).$END$" description="expect" toReformat="false" toShortenFQNames="true">
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
