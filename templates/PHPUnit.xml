@@ -14,4 +14,11 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
+  <template name="shouldRecieve" value="shouldReceive( '$METHOD$' )" description="shouldReceive" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
 </templateSet>
