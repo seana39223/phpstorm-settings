@@ -3,7 +3,7 @@
     <option name="customScope" value="File '.../templates/emails/events/presale.html - [dmn]'" />
     <option name="defaultScopeName" value="File '.../templates/emails/events/presale.html - [dmn]'" />
     <option name="SEARCH_SCOPE" value="File '.../templates/emails/events/presale.html - [dmn]'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -20,8 +20,8 @@
       <mask>*.*</mask>
       <mask>*.tpl</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
