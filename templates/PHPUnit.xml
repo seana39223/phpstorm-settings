@@ -35,4 +35,11 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
+  <template name="testPrivate" value="$$this-&gt;getMethod( $$this-&gt;$testClass$, '$testmethod$')-&gt;invoke( $$this-&gt;$testClass$$END$ );" description="Get Private method to test" toReformat="false" toShortenFQNames="true">
+    <variable name="testClass" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="testmethod" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
 </templateSet>
