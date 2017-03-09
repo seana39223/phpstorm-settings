@@ -17,8 +17,8 @@
   <template name="shouldRecieve" value="shouldReceive( '$METHOD$' )" description="shouldReceive" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Class Member" value="true" />
       <option name="PHP Expression" value="true" />
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
   <template name="setUpThis" value="/** @var $testClass$ */&#10;public $$$testClassLowerCase$;&#10;&#10;public function setUp(){&#10;  $this-&gt;$testClassLowerCase$ = new $testClass$();&#10;}" description="setUp with this" toReformat="false" toShortenFQNames="true">
