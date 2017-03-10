@@ -1,0 +1,18 @@
+<templateSet group="ReadMe">
+  <template name="script" value="1. [$issueNumber$-$fileName$](#$issueNumber$-$fileName$)&#10;&#10;## $issueNumber$-$fileName$&#10;[designmynight/dmn#$issueNumber$](https://www.github.com/designmynight/dmn/issues/$issueNumber$) | [Link to file](/$fileType$/$issueNumber$-$fileName$.php)&#10;&#10;$desc$" description="Add new script to read me" toReformat="false" toShortenFQNames="true">
+    <variable name="issueNumber" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="fileName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="fileType" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+      <option name="JSON" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+    </context>
+  </template>
+</templateSet>
