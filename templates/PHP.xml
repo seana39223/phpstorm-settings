@@ -13,4 +13,11 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="modelField" value="'$FIELD_NAME$' =&gt; [&#10;  'type' =&gt; '$FIELD_TYPE$'&#10;]$END$" description="Model Field Details" toReformat="false" toShortenFQNames="true">
+    <variable name="FIELD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
