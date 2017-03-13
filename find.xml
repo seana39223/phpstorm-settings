@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../templates/emails/events/presale.html - [dmn]'" />
     <option name="defaultScopeName" value="File '.../templates/emails/events/presale.html - [dmn]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../templates/emails/events/presale.html - [dmn]'" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
