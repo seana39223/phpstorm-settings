@@ -20,4 +20,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="@classVar" value="/** @var $ClassName$ $desc$ */&#10;private $$$variableName$;" description="class variable" toReformat="false" toShortenFQNames="true">
+    <variable name="ClassName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variableName" expression="camelCase(ClassName)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
