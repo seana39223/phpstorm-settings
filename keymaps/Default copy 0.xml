@@ -5,6 +5,9 @@
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
