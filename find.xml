@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../templates/emails/events/presale.html - [dmn]'" />
-    <option name="defaultScopeName" value="File '.../templates/emails/events/presale.html - [dmn]'" />
-    <option name="SEARCH_SCOPE" value="File '.../templates/emails/events/presale.html - [dmn]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
