@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="PHP">
+        <added pattern="\SiteUtils.getOption(option,tryRegionSpecific)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
