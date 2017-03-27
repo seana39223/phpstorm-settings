@@ -6,6 +6,8 @@
       </blacklist>
       <blacklist language="PHP">
         <added pattern="\SiteUtils.getOption(option,tryRegionSpecific)" />
+        <added pattern="\PersistentObject.getId(format)" />
+        <added pattern="\DesignMyNight\Core\Models\Model.toArray(outputFormat)" />
       </blacklist>
     </blacklists>
   </component>
