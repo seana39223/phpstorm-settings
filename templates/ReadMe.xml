@@ -5,14 +5,14 @@
     <variable name="fileType" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="false" />
       <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
       <option name="PHP" value="false" />
-      <option name="JSON" value="false" />
-      <option name="XML" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
     </context>
   </template>
 </templateSet>

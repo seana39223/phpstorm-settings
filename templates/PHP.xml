@@ -2,10 +2,10 @@
   <template name="dd" value="var_dump( $VAR$ );die;" description="dump die" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP String Literal" value="false" />
-      <option name="PHP Comment" value="false" />
       <option name="PHP" value="true" />
       <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
     </context>
   </template>
   <template name="xlimit" value="ini_set('xdebug.var_display_max_depth', 7);&#10;ini_set('xdebug.var_display_max_children', 256);&#10;ini_set('xdebug.var_display_max_data', 1024);" description="xdebug limits" toReformat="false" toShortenFQNames="true">
