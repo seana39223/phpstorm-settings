@@ -4,7 +4,7 @@
     <property name="created">2016-09-30T08:53:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-03-28T15:02:46</property>
+    <property name="modified">2017-03-28T15:20:51</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -763,6 +763,7 @@
       <value>
         <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="2e2e2e" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
