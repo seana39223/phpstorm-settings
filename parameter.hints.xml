@@ -1,12 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="PHP" />
       <blacklist language="PHP">
         <added pattern="\SiteUtils.getOption(option,tryRegionSpecific)" />
         <added pattern="\PersistentObject.getId(format)" />
         <added pattern="\DesignMyNight\Core\Models\Model.toArray(outputFormat)" />
         <added pattern="\var_dump(expression,_)" />
+        <added pattern="\DateTime.format(format)" />
       </blacklist>
     </blacklists>
   </component>
