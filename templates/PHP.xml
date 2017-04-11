@@ -28,4 +28,12 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="getReq" value="$$$VAR_NAME$ = $$this-&gt;requestController-&gt;getRequestVar( '$REQUEST_VAR$' );$END$" description="Dmn getRequestVar" toReformat="false" toShortenFQNames="true">
+    <variable name="REQUEST_VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_NAME" expression="camelCase(REQUEST_VAR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
