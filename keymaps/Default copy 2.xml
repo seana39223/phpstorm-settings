@@ -1,0 +1,18 @@
+<keymap version="1" name="Default copy 2" parent="Default for XWin">
+  <action id="EditorPasteSimple" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" second-keystroke="h" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantReloadAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" second-keystroke="r" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantResumeAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" second-keystroke="g" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantSuspendAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" second-keystroke="s" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantUpAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" second-keystroke="up" />
+  </action>
+</keymap>
