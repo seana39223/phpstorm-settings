@@ -14,6 +14,9 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift ctrl meta p" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
