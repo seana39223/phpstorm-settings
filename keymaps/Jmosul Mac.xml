@@ -1,4 +1,10 @@
-<keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+<keymap version="1" name="Jmosul Mac" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
@@ -7,6 +13,9 @@
   </action>
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="h" />
