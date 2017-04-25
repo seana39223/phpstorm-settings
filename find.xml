@@ -16,7 +16,6 @@
       <mask>*.*js</mask>
       <mask>*.tpl, *.php</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.*</mask>
       <mask>*.h</mask>
       <mask>*.htm</mask>
@@ -30,6 +29,8 @@
       <mask>*.html</mask>
       <mask>*.html,</mask>
       <mask>*.html, *.tpl</mask>
+      <mask>*.sc</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
