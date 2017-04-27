@@ -1,0 +1,16 @@
+<templateSet group="PHP DMN">
+  <template name="__f" value="'$field_name$' =&gt; [&#10;  'type' =&gt; '$type$'&#10;]$END$" description="Model Field" toReformat="false" toShortenFQNames="true">
+    <variable name="field_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@p" value="@property $TYPE$ $$$VAR$" description="@property tag" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>
