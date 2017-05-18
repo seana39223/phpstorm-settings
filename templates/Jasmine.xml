@@ -18,6 +18,10 @@
   </template>
   <template name="desc" value="describe( '$DESC$', function(){&#10;  $END$&#10;})" description="Jasmine Describe" toReformat="false" toShortenFQNames="true">
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="inj" value="inject( function( $INJECTION$ ){&#10;  $INJECTED$ = $INJECTION$;&#10;}&#10;$END$" description="Inject" toReformat="false" toShortenFQNames="true">
     <variable name="INJECTION" expression="" defaultValue="" alwaysStopAt="true" />
