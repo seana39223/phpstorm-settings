@@ -13,4 +13,12 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
+  <template name="$n" value="$$$mocked$ = new $mocking$($PARAMS$);&#10;$END$" description="new Class" toReformat="false" toShortenFQNames="true">
+    <variable name="mocking" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mocked" expression="camelCase(mocking)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
 </templateSet>
