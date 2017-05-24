@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
     </exec>
   </tool>
+  <tool name="User Object Permissions" description="Report of User's permission on an object" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/php" />
+      <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/local_scripts/userObjectPermissionsReport.php" />
+      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
+    </exec>
+  </tool>
 </toolSet>
