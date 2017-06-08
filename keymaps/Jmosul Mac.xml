@@ -26,7 +26,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
-  <action id="RemoteTool_External Tools_Test.php">
+  <action id="RemoteTool_External Tools_Local Test.php">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
   <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction">
