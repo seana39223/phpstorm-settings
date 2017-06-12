@@ -1,0 +1,11 @@
+<templateSet group="AngularJS DMN">
+  <template name="directive" value=".directive( '$NAME$', [ '$injections$', function( $injections$ ){&#10;  return {&#10;    template: $template$,&#10;    scope: {&#10;      $scope$&#10;    },&#10;    link: function( $$scope, $$element, attrs ){&#10;    &#10;    }&#10;  }&#10;}]); " description="Directive Template" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="injections" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="template" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="scope" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
