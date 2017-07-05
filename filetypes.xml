@@ -4,6 +4,7 @@
       <mapping pattern="Vagrantfile" type="Bash" />
       <mapping pattern="*.php.erb" type="PHP" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
