@@ -2,12 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.tply</mask>
-      <mask>*.tpl</mask>
       <mask>*.*</mask>
       <mask>*.htmlk</mask>
       <mask>phphtml</mask>
@@ -29,13 +27,14 @@
       <mask>*.h</mask>
       <mask>*.ht*.htmlml</mask>
       <mask>*.htjsml</mask>
-      <mask>*.js</mask>
       <mask>*.\\</mask>
       <mask>*.\</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*html</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
