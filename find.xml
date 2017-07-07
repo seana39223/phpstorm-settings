@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.tply</mask>
       <mask>*.*</mask>
       <mask>*.htmlk</mask>
       <mask>phphtml</mask>
@@ -28,13 +27,14 @@
       <mask>*.htjsml</mask>
       <mask>*.\\</mask>
       <mask>*.\</mask>
-      <mask>*</mask>
       <mask>*html</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.tpl</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*tpl</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
