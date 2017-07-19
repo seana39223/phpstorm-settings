@@ -45,4 +45,15 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
+  <template name="itSetsAndGets" value="/**&#10; * @test&#10; * @covers $COVER_CLASS$::set$FIELD_STUDLEY$();&#10; */&#10;public function sets_$FIELD_UNDERSCORE$_to_itself_and_returns_self() {&#10;  $$value = $VALUE$;&#10;&#10;  $$result = $$this-&gt;$OBJECT$-&gt;set$FIELD_STUDLEY$( $$value );&#10;&#10;  $$this-&gt;assertAttributeEquals( $$value, '$FIELD_CAMEL$', $$this-&gt;$OBJECT$ );&#10;  $$this-&gt;assertSame( $$this-&gt;$OBJECT$, $$result );&#10;&#10;  return [&#10;    'object' =&gt; $$this-&gt;$OBJECT$,&#10;    'value' =&gt; $$value&#10;  ];&#10;}&#10;&#10;/**&#10; * @test&#10; * @covers $COVER_CLASS$::get$FIELD_STUDLEY$()&#10; * @depends sets_$FIELD_UNDERSCORE$_to_itself_and_returns_self&#10; */&#10;public function gets_$FIELD_UNDERSCORE$( array $$setResult ){&#10;  $$result = $$setResult['object']-&gt;get$FIELD_STUDLEY$();&#10;  &#10;  $$this-&gt;assertSame( $$setResult['value'], $$result );&#10;}" description="it sets field to itself" toReformat="true" toShortenFQNames="true">
+    <variable name="COVER_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD_STUDLEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD_UNDERSCORE" expression="snakeCase(FIELD_STUDLEY)" defaultValue="" alwaysStopAt="false" />
+    <variable name="FIELD_CAMEL" expression="camelCase(FIELD_STUDLEY)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
