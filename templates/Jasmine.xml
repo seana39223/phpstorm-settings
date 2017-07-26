@@ -53,7 +53,7 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="toHaveBeenCalled" value="toHaveBeenCalledWith();$END$" description="toHaveBeenCalled Matcher" toReformat="true" toShortenFQNames="true">
+  <template name="toHaveBeenCalled" value="toHaveBeenCalled();$END$" description="toHaveBeenCalled Matcher" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
