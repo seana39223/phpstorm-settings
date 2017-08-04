@@ -1,0 +1,57 @@
+<keymap version="1" name="Jmosul Mac" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="RemoteTool_External Tools_Local Test.php">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
+  <action id="RunJsbtTask" />
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="h" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantReloadAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="r" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantResumeAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="p" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantSuspendAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="s" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantUpAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" second-keystroke="up" />
+  </action>
+</keymap>

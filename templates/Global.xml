@@ -1,0 +1,17 @@
+<templateSet group="Global">
+  <template name="adc" value="AutoDoubleConfirm" description="AutoDoubleConfirm" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="adc_" value="auto_double_confirm" description="auto_double_confirm" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="adc-" value="AutoDoubleConfirm" description="auto-double-confirm" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

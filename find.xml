@@ -2,37 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tpl" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js, *.html</mask>
-      <mask>*.php, *.tpl</mask>
-      <mask>*.*js</mask>
-      <mask>*.tpl, *.php</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.*</mask>
-      <mask>*.h</mask>
+      <mask>*.htjsml</mask>
+      <mask>*.\\</mask>
+      <mask>*.\</mask>
+      <mask>*html</mask>
+      <mask>*tpl</mask>
+      <mask>*.P</mask>
+      <mask>*.PHP</mask>
+      <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
+      <mask>*.php\\</mask>
+      <mask>*.php\</mask>
+      <mask>*.htl</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
-      <mask>*.j</mask>
-      <mask>*.jd</mask>
-      <mask>*.js</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.ph</mask>
+      <mask>*.h</mask>
       <mask>*.html</mask>
-      <mask>*.html,</mask>
-      <mask>*.html, *.tpl</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
