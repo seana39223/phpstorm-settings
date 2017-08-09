@@ -21,9 +21,10 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
-  <template name="ifsearch" value="if( $$$field$ = $$this-&gt;get$fieldCap$() ){&#10;  $$params['$field'] = $$$field$;&#10;}" description="if search term set" toReformat="false" toShortenFQNames="true">
+  <template name="ifsearch" value="if( $$$field$ = $$this-&gt;get$fieldCap$() ){&#10;  $$params['$fieldUnder$'] = $$$field$;&#10;}" description="if search term set" toReformat="false" toShortenFQNames="true">
     <variable name="fieldCap" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="field" expression="camelCase(fieldCap)" defaultValue="" alwaysStopAt="false" />
+    <variable name="fieldUnder" expression="snakeCase(fieldCap)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
