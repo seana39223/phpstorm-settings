@@ -82,8 +82,12 @@
           <option name="url" value="https://github.com/designmynight/dmn-mobile.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/designmynight/collins-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Github/DesignMyNight" />
+    <option name="cloneParentDir" value="$USER_HOME$/Github" />
   </component>
 </application>
