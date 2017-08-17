@@ -8,7 +8,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="route" value="{&#10;      id: '$id$',&#10;      uiStateConfigObject: {&#10;        url: '/$url$',&#10;        templateUrl: tmplPath.spritz + 'spritz-$tpl$.html',&#10;        controller: '$ctrl$Controller',&#10;        controllerAs: '$ctrlAs$'&#10;      }&#10;    }" description="new route" toReformat="false" toShortenFQNames="true">
+  <template name="route" value="{&#10;      id: '$id$',&#10;      uiStateConfigObject: {&#10;        url: '/$url$',&#10;        templateUrl: tmplPath.spritz + '$tpl$.html',&#10;        controller: '$ctrl$Controller',&#10;        controllerAs: '$ctrlAs$'&#10;      }&#10;    }" description="new route" toReformat="false" toShortenFQNames="true">
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="tpl" expression="" defaultValue="" alwaysStopAt="true" />
