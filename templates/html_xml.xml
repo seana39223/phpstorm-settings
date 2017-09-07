@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="trhd" value="&lt;tr&gt;&#10;  &lt;th&gt;$header$&lt;/th&gt;&#10;  &lt;td&gt;$content$&lt;/td&gt;&#10;&lt;/tr&gt;" description="Table row with header and cell" toReformat="false" toShortenFQNames="true">
+    <variable name="header" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
