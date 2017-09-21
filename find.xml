@@ -3,31 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tpl" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js, *.html</mask>
-      <mask>*.php, *.tpl</mask>
-      <mask>*.*js</mask>
-      <mask>*.tpl, *.php</mask>
-      <mask>*.scs</mask>
+      <mask>*.\</mask>
+      <mask>*html</mask>
+      <mask>*tpl</mask>
+      <mask>*.P</mask>
+      <mask>*.PHP</mask>
+      <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*.php\\</mask>
+      <mask>*.php\</mask>
+      <mask>*.htl</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*.t</mask>
       <mask>*.scss</mask>
-      <mask>*.*</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.php</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.jd</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.html</mask>
-      <mask>*.tpl</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>

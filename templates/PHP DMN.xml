@@ -1,0 +1,33 @@
+<templateSet group="PHP DMN">
+  <template name="__f" value="'$field_name$' =&gt; [&#10;  'type' =&gt; '$type$'&#10;]$END$&#10;* @property $type$ $$$field_name$" description="Model Field" toReformat="false" toShortenFQNames="true">
+    <variable name="field_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@p" value="@property $TYPE$ $$$VAR$" description="@property tag" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="$n" value="$$$mocked$ = new $mocking$($PARAMS$);&#10;$END$" description="new Class" toReformat="false" toShortenFQNames="true">
+    <variable name="mocking" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mocked" expression="camelCase(mocking)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+  <template name="ifsearch" value="if( $$$field$ = $$this-&gt;get$fieldCap$() ){&#10;  $$params['$fieldUnder$'] = $$$field$;&#10;}" description="if search term set" toReformat="false" toShortenFQNames="true">
+    <variable name="fieldCap" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field" expression="camelCase(fieldCap)" defaultValue="" alwaysStopAt="false" />
+    <variable name="fieldUnder" expression="snakeCase(fieldCap)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

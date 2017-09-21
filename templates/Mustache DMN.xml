@@ -1,0 +1,12 @@
+<templateSet group="Mustache DMN">
+  <template name="2column" value="{{&gt; structure/columns/two-column-row-open }}&#10;&#10;$END$&#10;&#10;{{&gt; structure/columns/two-column-row-middle }}&#10;&#10;&#10;{{&gt; structure/columns/two-column-row-close }}" description="Email Double Column" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="1column" value="{{&gt; structure/columns/one-column-row-open }}&#10;&#10;$END$&#10;&#10;{{&gt; structure/columns/one-column-row-close }}" description="Email Single Column" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

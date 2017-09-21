@@ -13,6 +13,9 @@
       <webServer id="e389e033-79d4-4f74-a1ff-068d57c26a09" name="Dmn admin" url="http://admin-dev.designmynight.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="27268b91-a542-4215-aff7-fc2d643b15ce" name="spritz-api" url="http://api-dev-spritz.designmynight.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
