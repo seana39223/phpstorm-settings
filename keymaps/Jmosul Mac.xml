@@ -29,6 +29,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="RemoteTool_External Tools_Local Test.php">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
