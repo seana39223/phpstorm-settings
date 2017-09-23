@@ -10,6 +10,7 @@
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="Bash" />
