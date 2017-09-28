@@ -55,4 +55,11 @@
       <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
     </exec>
   </tool>
+  <tool name="CreateIndexes" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/php" />
+      <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/local_scripts/createIndexes.php" />
+      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
+    </exec>
+  </tool>
 </toolSet>
