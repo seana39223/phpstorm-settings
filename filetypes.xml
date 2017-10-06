@@ -5,6 +5,8 @@
       <mapping pattern="current-brand-switcher.html" type="HTML" />
       <mapping pattern="navbar" type="HTML" />
       <mapping ext="jdon" type="JSON" />
+      <mapping pattern="committing-to-git" type="Markdown" />
+      <mapping pattern="committing-to-git.md" type="Native" />
       <mapping pattern="*.php.erb" type="PHP" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
