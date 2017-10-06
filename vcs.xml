@@ -94,8 +94,12 @@
           <option name="url" value="https://github.com/jmosul/Handbook.wiki.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/designmynight/handbook.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\James\Github\Jmosul" />
+    <option name="cloneParentDir" value="C:\Users\James\Github\DesignMyNight" />
   </component>
 </application>
