@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.P</mask>
       <mask>*.PHP</mask>
@@ -33,10 +33,10 @@
       <mask>*.ptp</mask>
       <mask>*.pt</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.tpl</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
