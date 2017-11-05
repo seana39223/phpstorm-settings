@@ -16,6 +16,9 @@
       </interpreter>
       <interpreter home="/usr/bin/php" id="715313b9-a3ad-45c5-8832-31a686807b8c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/Cellar/php71/7.1.8_20/bin/php" id="f3559efd-b7be-4229-9270-d8eaaa2786ed" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="vagrant:///Users/james/Github/jmosul/jade/usr/bin/php" id="2987bd6d-a714-40b1-8d54-e696aed3b2a7" name="Jade" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/jmosul/jade" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
