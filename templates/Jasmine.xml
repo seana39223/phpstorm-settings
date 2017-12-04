@@ -10,7 +10,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="it" value="it( '$TEST$', () =&gt; {&#10;  $END$&#10;});" description="Jasmine Spec" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="it( '$TEST$', () =&gt; {&#10;  $END$&#10;});" description="Jasmine Spec" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
