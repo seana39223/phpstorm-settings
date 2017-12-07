@@ -20,24 +20,24 @@
       <mask>*.ptpl</mask>
       <mask>*.ptp</mask>
       <mask>*.pt</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.tpl</mask>
       <mask>*.*</mask>
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
+      <mask>*.ph</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*.t</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
