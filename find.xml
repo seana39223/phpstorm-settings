@@ -7,38 +7,38 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*css" />
     <recentFileMasks>
-      <mask>*.P</mask>
-      <mask>*.PHP</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*.php\\</mask>
-      <mask>*.php\</mask>
-      <mask>*.htl</mask>
-      <mask>*.jd</mask>
-      <mask>*.ptpl</mask>
-      <mask>*.ptp</mask>
-      <mask>*.pt</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.*</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.ph</mask>
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*scs</mask>
+      <mask>*scss</mask>
+      <mask>*thml</mask>
+      <mask>*thm</mask>
+      <mask>*th</mask>
+      <mask>*t</mask>
+      <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*</mask>
+      <mask>*c</mask>
+      <mask>*cs</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
