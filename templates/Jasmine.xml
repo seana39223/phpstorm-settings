@@ -10,8 +10,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="it" value="it( '$TEST$', () =&gt; {&#10;  $END$&#10;});" description="Jasmine Spec" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="itinjects" value="it( 'sets $service$ to itself', () =&gt; {&#10;  expect( $testClass$.$service$ ).toBe( mock$service$ );&#10;});" description="Jasmine Inject Spec" toReformat="true" toShortenFQNames="true">
+    <variable name="service" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="testClass" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
