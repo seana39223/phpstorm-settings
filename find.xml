@@ -7,12 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*html" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -31,14 +27,18 @@
       <mask>*thm</mask>
       <mask>*th</mask>
       <mask>*t</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
       <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
-      <mask>*</mask>
+      <mask>*htmlppp</mask>
+      <mask>*htmlpp</mask>
+      <mask>*htmlp</mask>
       <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
