@@ -1712,7 +1712,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="b3b248a5-14f7-4848-9782-c2f56bca60ac" load_method="CUSTOM_LOADER" configuration_file_path="/srv/dmn-frontend/current/phpunit.xml" custom_loader_path="/srv/dmn-frontend/current/vendor/autoload.php" phpunit_phar_path="/srv/dmn-frontend/current/vendor/phpunit/phpunit/phpunit" use_configuration_file="true" />
-      <phpunit_by_interpreter interpreter_id="8b929f3a-08c0-492d-be99-cd800c9fa866" load_method="CUSTOM_LOADER" configuration_file_path="/srv/tonic-api/current/phpunit.xml" custom_loader_path="" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="8b929f3a-08c0-492d-be99-cd800c9fa866" load_method="PHPUNIT_PHAR" configuration_file_path="/srv/tonic-api/current/phpunit.xml" custom_loader_path="" phpunit_phar_path="/srv/tonic-api/current/vendor/phpunit/phpunit/phpunit" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
