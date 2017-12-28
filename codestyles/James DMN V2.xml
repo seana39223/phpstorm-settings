@@ -132,6 +132,12 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
     <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
       <rules>
         <section>
           <rule>
