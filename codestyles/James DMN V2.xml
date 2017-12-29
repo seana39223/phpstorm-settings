@@ -174,8 +174,32 @@
           <rule>
             <match>
               <AND>
+                <ABSTRACT>true</ABSTRACT>
                 <METHOD>true</METHOD>
                 <modifiers />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>false</ABSTRACT>
+                <METHOD>true</METHOD>
+                <STATIC>false</STATIC>
+                <visibility />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <STATIC>true</STATIC>
+                <visibility />
               </AND>
             </match>
           </rule>
