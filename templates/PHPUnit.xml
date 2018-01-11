@@ -60,4 +60,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="@coversDefault" value="@coversDefaultClass $namespace$" description="coversDefaultClass" toReformat="false" toShortenFQNames="true">
+    <variable name="namespace" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
 </templateSet>
