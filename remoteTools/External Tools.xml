@@ -62,4 +62,11 @@
       <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
     </exec>
   </tool>
+  <tool name="SolrPage" description="Add page to solar" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/php" />
+      <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/local_scripts/solrpage.php" />
+      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
+    </exec>
+  </tool>
 </toolSet>
