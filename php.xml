@@ -22,6 +22,9 @@
       <interpreter home="vagrant:///Users/james/Github/DesignMyNight/infrastructure-v2@tonic-api/usr/bin/php" id="8b929f3a-08c0-492d-be99-cd800c9fa866" name="Tonic Api Vagrant" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/DesignMyNight/infrastructure-v2" MACHINE_NAME="tonic-api" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
+      <interpreter home="vagrant:///Users/james/Github/DesignMyNight/infrastructure-v2@dev/usr/bin/php" id="169bd15a-a547-4687-b504-7d325901c84d" name="Frontend" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/DesignMyNight/infrastructure-v2" MACHINE_NAME="dev" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
