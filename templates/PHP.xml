@@ -36,4 +36,10 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="__con" value="public function __construct($params$) {&#10;  $END$&#10;}" description="function __construct" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
