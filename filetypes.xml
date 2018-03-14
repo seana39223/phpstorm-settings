@@ -9,6 +9,7 @@
       <mapping pattern="committing-to-git" type="Markdown" />
       <mapping pattern="committing-to-git.md" type="Native" />
       <mapping pattern="*.php.erb" type="PHP" />
+      <mapping pattern="24437-convert-yearly-fiscal-reports-to-date-range.php" type="PHP" />
       <mapping pattern="upaid-purchases-report" type="PHP" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
