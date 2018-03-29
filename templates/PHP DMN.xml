@@ -30,4 +30,12 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="^fl" value="=&gt; [&#10;  'label' =&gt; '$label$'&#10;]" description="Tonic Field Label" toReformat="false" toShortenFQNames="true">
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
 </templateSet>

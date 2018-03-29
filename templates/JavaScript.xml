@@ -16,4 +16,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="dep" value="this.$DependencyProperty$ = $Dependency$;" description="Dependency" toReformat="false" toShortenFQNames="true">
+    <variable name="Dependency" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DependencyProperty" expression="Dependency" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
 </templateSet>

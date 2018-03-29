@@ -21,7 +21,11 @@
     <variable name="with" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Expression" value="true" />
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP Statement" value="false" />
+      <option name="PHP String Literal" value="false" />
     </context>
   </template>
   <template name="setUpThis" value="/** @var $testClass$ */&#10;public $$$testClassLowerCase$;&#10;&#10;public function setUp(){&#10;  $this-&gt;$testClassLowerCase$ = new $testClass$();&#10;}" description="setUp with this" toReformat="false" toShortenFQNames="true">
@@ -54,6 +58,12 @@
     <variable name="FIELD_CAMEL" expression="camelCase(FIELD_STUDLEY)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="@coversDefault" value="@coversDefaultClass $namespace$" description="coversDefaultClass" toReformat="false" toShortenFQNames="true">
+    <variable name="namespace" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
     </context>
   </template>
 </templateSet>

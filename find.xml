@@ -5,34 +5,34 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.\</mask>
+      <mask>*htmlp</mask>
       <mask>*html</mask>
-      <mask>*tpl</mask>
-      <mask>*.P</mask>
-      <mask>*.PHP</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*.php\\</mask>
-      <mask>*.php\</mask>
-      <mask>*.htl</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*php</mask>
+      <mask>*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.ya</mask>
+      <mask>*.yaml</mask>
+      <mask>*.yam</mask>
+      <mask>*.y</mask>
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.jd</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
     </recentFileMasks>
