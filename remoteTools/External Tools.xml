@@ -69,4 +69,11 @@
       <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
     </exec>
   </tool>
+  <tool name="Restart Mongo" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="/usr/sbin/service" />
+      <option name="PARAMETERS" value="mongod restart" />
+      <option name="WORKING_DIRECTORY" value="/" />
+    </exec>
+  </tool>
 </toolSet>
