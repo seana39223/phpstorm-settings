@@ -1,20 +1,29 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  <action id="Cvs.CreateBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+  </action>
+  <action id="ShowGulpTasks">
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
   </action>
 </keymap>

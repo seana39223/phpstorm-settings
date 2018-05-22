@@ -9,24 +9,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///Users/james/Github/DesignMyNight/infrastructure/usr/bin/php" id="b3b248a5-14f7-4848-9782-c2f56bca60ac" name="DMN Vagrant" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/DesignMyNight/infrastructure" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="/usr/bin/php" id="715313b9-a3ad-45c5-8832-31a686807b8c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php71/7.1.8_20/bin/php" id="f3559efd-b7be-4229-9270-d8eaaa2786ed" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="vagrant:///Users/james/Github/jmosul/jade/usr/bin/php7.1" id="2987bd6d-a714-40b1-8d54-e696aed3b2a7" name="Jade" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/jmosul/jade" INTERPRETER_PATH="/usr/bin/php7.1" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="vagrant:///Users/james/Github/DesignMyNight/infrastructure-v2@tonic-api/usr/bin/php" id="8b929f3a-08c0-492d-be99-cd800c9fa866" name="Tonic Api Vagrant" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/DesignMyNight/infrastructure-v2" MACHINE_NAME="tonic-api" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="vagrant:///Users/james/Github/DesignMyNight/infrastructure-v2@dev/usr/bin/php" id="169bd15a-a547-4687-b504-7d325901c84d" name="Frontend" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Github/DesignMyNight/infrastructure-v2" MACHINE_NAME="dev" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="DMN Vagrant">
@@ -1708,14 +1690,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="b3b248a5-14f7-4848-9782-c2f56bca60ac" load_method="CUSTOM_LOADER" configuration_file_path="/srv/dmn-frontend/current/phpunit.xml" custom_loader_path="/srv/dmn-frontend/current/vendor/autoload.php" phpunit_phar_path="/srv/dmn-frontend/current/vendor/phpunit/phpunit/phpunit" use_configuration_file="true" />
-      <phpunit_by_interpreter interpreter_id="8b929f3a-08c0-492d-be99-cd800c9fa866" load_method="PHPUNIT_PHAR" configuration_file_path="/srv/tonic-api/current/phpunit.xml" custom_loader_path="" phpunit_phar_path="/srv/tonic-api/current/vendor/phpunit/phpunit/phpunit" use_configuration_file="true" />
-    </phpunit_settings>
   </component>
 </application>
