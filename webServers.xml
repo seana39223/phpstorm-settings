@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41164816-a08b-4e32-865f-3e610f0f3e61" name="DMN Admin" url="http://admin-dev.designmynight.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
