@@ -7,6 +7,7 @@
       <mapping pattern="bookable-areas" type="HTML" />
       <mapping ext="jdon" type="JSON" />
       <mapping pattern="committing-to-git" type="Markdown" />
+      <mapping pattern="Add-Affiliate-User.md" type="Markdown" />
       <mapping pattern="committing-to-git.md" type="Native" />
       <mapping pattern="*.php.erb" type="PHP" />
       <mapping pattern="24437-convert-yearly-fiscal-reports-to-date-range.php" type="PHP" />
@@ -14,8 +15,8 @@
       <mapping pattern="check" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
