@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,6 @@
     <mask>*.php, !*Test.php</mask>
     <mask>Git*.php</mask>
     <mask>*.tpl</mask>
-    <mask>*.*</mask>
     <mask>*.js, !*_test.*js</mask>
     <mask>*php</mask>
     <mask>*.html</mask>
@@ -24,5 +23,6 @@
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.*</mask>
   </component>
 </application>
