@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant:///Users/james.osullivan/GitHub/DesignMyNight/infrastructure/usr/bin/php" id="458ca269-51bb-49c5-81a3-39a2308fd9bc" name="Infrastructure V1" debugger_id="php.debugger.XDebug">
+      <interpreter home="vagrant:///Users/james.osullivan/GitHub/DesignMyNight/infrastructure/usr/bin/php" id="458ca269-51bb-49c5-81a3-39a2308fd9bc" name="Infrastructure V1" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20170718/xdebug.so">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/GitHub/DesignMyNight/infrastructure" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/bin/php" id="19583c83-a6a8-4a42-9999-a45210e2c421" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
