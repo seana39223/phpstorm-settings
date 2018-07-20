@@ -76,4 +76,11 @@
       <option name="WORKING_DIRECTORY" value="/" />
     </exec>
   </tool>
+  <tool name="Process Message" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/php" />
+      <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/local_scripts/processMessage.php -y" />
+      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
+    </exec>
+  </tool>
 </toolSet>
