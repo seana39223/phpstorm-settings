@@ -42,4 +42,12 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="getif" value="$visibility$ function get$name$() {&#10;   if(!isset($$this-&gt;$attrName$)) {&#10;     $$this-&gt;$attrName$ = $END$;&#10;   }&#10;   &#10;   return $$this-&gt;$attrName$;&#10;}" description="Get if set" toReformat="true" toShortenFQNames="true">
+    <variable name="visibility" expression="" defaultValue="public" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="attrName" expression="camelCase(name)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
