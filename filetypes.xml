@@ -2,8 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="tonic_bash" type="Bash" />
+      <mapping pattern="cdmn" type="Bash" />
       <mapping pattern="tonic" type="Bash" />
+      <mapping pattern="aws_helpers" type="Bash" />
       <mapping pattern="cd" type="Bash" />
+      <mapping pattern="v" type="Bash" />
       <mapping pattern="start" type="Bash" />
       <mapping pattern="command" type="Bash" />
       <mapping pattern="dockercompose" type="Bash" />
