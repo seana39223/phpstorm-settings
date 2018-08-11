@@ -170,8 +170,12 @@
           <option name="url" value="https://github.com/jmosul/aws-amplify-vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jmosul/personal-website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Github/jmosul" />
+    <option name="cloneParentDir" value="C:\Users\James\Github\jmosul" />
   </component>
 </application>

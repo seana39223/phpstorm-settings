@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Github/DesignMyNight/dmn/local_scripts/updateTicketWidget.sh" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Github/DesignMyNight/dmn/local_scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/James/Github/DesignMyNight/dmn/local_scripts" />
     </exec>
   </tool>
 </toolSet>
