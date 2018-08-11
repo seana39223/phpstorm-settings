@@ -81,16 +81,7 @@
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
-    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
@@ -121,6 +112,7 @@
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
