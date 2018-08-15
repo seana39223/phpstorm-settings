@@ -31,6 +31,7 @@
       <mapping pattern="24437-convert-yearly-fiscal-reports-to-date-range.php" type="PHP" />
       <mapping pattern="shuffle" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="yes" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern="servers.json" type="PLAIN_TEXT" />
