@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping pattern="dockercompose" type="Bash" />
       <mapping pattern="config" type="Bash" />
+      <mapping pattern="dmn" type="Bash" />
       <mapping pattern="changedirectory" type="Bash" />
-      <mapping pattern="start" type="Bash" />
+      <mapping pattern="stop" type="Bash" />
       <mapping pattern="cdmn" type="Bash" />
       <mapping pattern="v" type="Bash" />
       <mapping pattern="tonic" type="Bash" />
       <mapping pattern="command" type="Bash" />
-      <mapping pattern="dmn" type="Bash" />
       <mapping pattern="tonic_bash" type="Bash" />
       <mapping pattern="aws_helpers" type="Bash" />
+      <mapping pattern="start" type="Bash" />
       <mapping pattern="cd" type="Bash" />
       <mapping pattern="Vagrantfile" type="Bash" />
       <mapping ext="example" type="Bash" />
