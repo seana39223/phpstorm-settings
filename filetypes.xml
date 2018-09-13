@@ -2,21 +2,21 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="dockercompose" type="Bash" />
+      <mapping pattern="collins" type="Bash" />
       <mapping pattern="config" type="Bash" />
-      <mapping pattern="dmn" type="Bash" />
       <mapping pattern="changedirectory" type="Bash" />
+      <mapping pattern="start" type="Bash" />
       <mapping pattern="cdmn" type="Bash" />
       <mapping pattern="v" type="Bash" />
       <mapping pattern="stop" type="Bash" />
       <mapping pattern="tonic" type="Bash" />
-      <mapping pattern="cd" type="Bash" />
       <mapping pattern="command" type="Bash" />
-      <mapping pattern="collins" type="Bash" />
-      <mapping pattern="start" type="Bash" />
+      <mapping pattern="dmn" type="Bash" />
       <mapping pattern="tonic_bash" type="Bash" />
       <mapping pattern="aws_helpers" type="Bash" />
       <mapping pattern="soda" type="Bash" />
       <mapping pattern="website" type="Bash" />
+      <mapping pattern="cd" type="Bash" />
       <mapping pattern="Vagrantfile" type="Bash" />
       <mapping ext="example" type="Bash" />
       <mapping ext="composer" type="Dockerfile" />
@@ -48,6 +48,7 @@
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="scss" type="Sass" />
     </extensionMap>
