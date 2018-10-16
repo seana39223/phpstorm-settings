@@ -42,6 +42,7 @@
       <mapping pattern="heigh-ho" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern="servers.json" type="PLAIN_TEXT" />
+      <mapping pattern="favourite-things" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="We built this city" type="PLAIN_TEXT" />
