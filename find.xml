@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,7 +23,6 @@
     <mask>*Test.php</mask>
     <mask>!test.php, *.php</mask>
     <mask>*js</mask>
-    <mask>*</mask>
     <mask>!*test.js</mask>
     <mask>*scss</mask>
     <mask>*.php</mask>
@@ -32,5 +30,6 @@
     <mask>*.js</mask>
     <mask>EventEd.js</mask>
     <mask>*php</mask>
+    <mask>*</mask>
   </component>
 </application>
