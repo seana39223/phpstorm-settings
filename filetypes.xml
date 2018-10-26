@@ -17,6 +17,7 @@
       <mapping pattern="cd" type="Bash" />
       <mapping pattern="start" type="Bash" />
       <mapping pattern="stop" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="Bash" />
       <mapping pattern="soda" type="Bash" />
       <mapping ext="example" type="Bash" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
