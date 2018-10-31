@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -16,16 +18,22 @@
     <mask>Git*.php</mask>
     <mask>*.tpl</mask>
     <mask>*.js, !*_test.*js</mask>
-    <mask>*php</mask>
-    <mask>*</mask>
-    <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*.*</mask>
     <mask>*.*, !*-*</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*Test.php</mask>
     <mask>!test.php, *.php</mask>
+    <mask>*js</mask>
+    <mask>!*test.js</mask>
+    <mask>*scss</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>EventEd.js</mask>
+    <mask>*php</mask>
+    <mask>*</mask>
+    <mask>*.php</mask>
+    <mask>*.tpl, *.php</mask>
+    <mask>*.tpl, *.php, *.html</mask>
   </component>
 </application>
