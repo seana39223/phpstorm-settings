@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,7 +26,6 @@
     <mask>*js</mask>
     <mask>!*test.js</mask>
     <mask>*scss</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>EventEd.js</mask>
     <mask>*php</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.tpl, *.php</mask>
     <mask>*.tpl, *.php, *.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
