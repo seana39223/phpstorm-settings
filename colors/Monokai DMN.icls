@@ -1,11 +1,11 @@
-<scheme name="Monokai james" version="142" parent_scheme="Default">
+<scheme name="Monokai DMN" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-09-30T08:53:25</property>
+    <property name="created">2018-09-04T09:24:30</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2018-09-04T09:18:42</property>
-    <property name="originalScheme">Monokai</property>
+    <property name="ideVersion">2018.2.2.0.0</property>
+    <property name="modified">2018-09-04T09:27:03</property>
+    <property name="originalScheme">Monokai james</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -388,7 +388,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="7dc5c8" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -414,17 +414,17 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="b386bc" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="279ea4" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="7dc5c8" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -436,7 +436,7 @@
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="279ea4" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -447,7 +447,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="81368f" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -459,12 +459,12 @@
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="b386bc" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="81368f" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -486,7 +486,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="279ea4" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
