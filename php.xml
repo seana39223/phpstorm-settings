@@ -1092,6 +1092,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="458ca269-51bb-49c5-81a3-39a2308fd9bc" load_method="CUSTOM_LOADER" bootstrap_file_path="/srv/dmn-frontend/current/php-unit-config.php" configuration_file_path="/srv/dmn-frontend/current/phpunit.xml" custom_loader_path="/srv/dmn-frontend/current/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="d36301d7-69c6-4df9-b58b-a0f279499120" load_method="CUSTOM_LOADER" custom_loader_path="/srv/tonic-api/current/vendor/phpunit" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
