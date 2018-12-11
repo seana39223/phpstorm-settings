@@ -18,4 +18,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="module" value="angular.module('tonic.$TYPE$s.$NAME$', [])&#10;.$TYPE$('$NAME$', $CLASS_NAME$);" description="New AngularJS module" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="CLASS_NAME" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
