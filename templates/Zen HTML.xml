@@ -4,6 +4,7 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
     </context>
