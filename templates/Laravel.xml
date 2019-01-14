@@ -15,4 +15,11 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
+  <template name="show" value="public function show($modelClass$ $$$modelVar$): Resource&#10;{&#10;  return new Resource($$$modelVar$);&#10;}" description="show(Model $model)" toReformat="false" toShortenFQNames="true">
+    <variable name="modelClass" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="modelVar" expression="camelCase(modelClass)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
