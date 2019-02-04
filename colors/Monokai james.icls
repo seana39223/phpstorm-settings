@@ -4,7 +4,7 @@
     <property name="created">2016-09-30T08:53:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2018-09-04T09:18:42</property>
+    <property name="modified">2019-02-04T10:23:27</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -509,13 +509,13 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="763f34" />
+        <option name="BACKGROUND" value="79492e" />
         <option name="ERROR_STRIPE_COLOR" value="ff6647" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="5b5b5b" />
+        <option name="BACKGROUND" value="7b3b3b" />
         <option name="ERROR_STRIPE_COLOR" value="747474" />
       </value>
     </option>
