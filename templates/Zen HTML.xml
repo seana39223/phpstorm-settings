@@ -5,6 +5,35 @@
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngModel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ngChange" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
     </context>
