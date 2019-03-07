@@ -1,5 +1,5 @@
 <templateSet group="PHP DMN">
-  <template name="__f" value="'$field_name$' =&gt; [&#10;  'type' =&gt; '$type$'&#10;]$END$&#10;* @property $type$ $$$field_name$" description="Model Field" toReformat="false" toShortenFQNames="true">
+  <template name="__f" value="'$field_name$' =&gt; [&#10;  'type' =&gt; '$type$'&#10;],$END$&#10;* @property $type$ $$$field_name$" description="Model Field" toReformat="false" toShortenFQNames="true">
     <variable name="field_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
