@@ -66,7 +66,7 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="fac" value="$$$mocked$ = factory( $mocking$::class );" description="Factory" toReformat="false" toShortenFQNames="true">
+  <template name="fac" value="/** @var $mocking$ $$$mocked$ */ &#10;$$$mocked$ = factory( $mocking$::class );" description="Factory" toReformat="false" toShortenFQNames="true">
     <variable name="mocking" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="mocked" expression="camelCase(mocking)" defaultValue="" alwaysStopAt="false" />
     <context>
