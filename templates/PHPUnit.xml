@@ -73,7 +73,7 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
-  <template name="makeFactory" value="/** @var $modelClass $$$modelCamel$ */&#10;$$$modelCamel$ = factory($modelClass$::class)-&gt;make($data$);" description="FactoryMaking" toReformat="true" toShortenFQNames="true">
+  <template name="makeFactory" value="/** @var $modelClass$ $$$modelCamel$ */&#10;$$$modelCamel$ = factory($modelClass$::class)-&gt;make($data$);" description="FactoryMaking" toReformat="true" toShortenFQNames="true">
     <variable name="modelClass" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="modelCamel" expression="camelCase(modelClass)" defaultValue="" alwaysStopAt="false" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
@@ -82,7 +82,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="createFactory" value="/** @var $modelClass $$$modelCamel$ */&#10;$$$modelCamel$ = factory($modelClass$::class)-&gt;create($data$);" description="Factory Create Model" toReformat="true" toShortenFQNames="true">
+  <template name="createFactory" value="/** @var $modelClass$ $$$modelCamel$ */&#10;$$$modelCamel$ = factory($modelClass$::class)-&gt;create($data$);" description="Factory Create Model" toReformat="true" toShortenFQNames="true">
     <variable name="modelClass" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="modelCamel" expression="camelCase(modelClass)" defaultValue="" alwaysStopAt="false" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
