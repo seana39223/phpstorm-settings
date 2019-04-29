@@ -35,7 +35,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="mock" value="$$$mocked$ = m::mock( $mocking$::class );" description="Mock Class" toReformat="false" toShortenFQNames="true">
+  <template name="mock" value="/** @var $mocking$|m\MockInterface $$$mocked$ */&#10;$$$mocked$ = m::mock( $mocking$::class );" description="Mock Class" toReformat="false" toShortenFQNames="true">
     <variable name="mocking" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="mocked" expression="camelCase(mocking)" defaultValue="" alwaysStopAt="false" />
     <context>
