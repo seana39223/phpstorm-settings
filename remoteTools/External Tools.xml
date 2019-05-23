@@ -1,11 +1,4 @@
 <toolSet name="External Tools">
-  <tool name="Test.php" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
-    <exec>
-      <option name="COMMAND" value="/usr/bin/php" />
-      <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/test.php -y" />
-      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
-    </exec>
-  </tool>
   <tool name="SolrUser" description="Add user to solar" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
     <exec>
       <option name="COMMAND" value="/usr/bin/php" />
@@ -27,11 +20,11 @@
       <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
     </exec>
   </tool>
-  <tool name="Local Test.php" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="DEFAULT_SDK">
+  <tool name="Local Test.php" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="DEFAULT_SDK">
     <exec>
       <option name="COMMAND" value="/usr/bin/php" />
-      <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/local_scripts/test.php -y" />
-      <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
+      <option name="PARAMETERS" value="test.php" />
+      <option name="WORKING_DIRECTORY" value="/srv/core/current/local_scripts" />
     </exec>
   </tool>
   <tool name="reindexBooking" description="Add user to solar" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
@@ -67,13 +60,6 @@
       <option name="COMMAND" value="/usr/bin/php" />
       <option name="PARAMETERS" value="tasks.php -t=script -p=/srv/dmn-frontend/current/local_scripts/solrpage.php" />
       <option name="WORKING_DIRECTORY" value="/srv/dmn-frontend/" />
-    </exec>
-  </tool>
-  <tool name="Restart Mongo" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
-    <exec>
-      <option name="COMMAND" value="/srv/dmn-frontend/current/local_scripts/restartMongo.sh" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="/" />
     </exec>
   </tool>
   <tool name="Process Message" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
