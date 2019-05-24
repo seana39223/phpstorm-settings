@@ -23,7 +23,7 @@
   <tool name="Local Test.php" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="DEFAULT_SDK">
     <exec>
       <option name="COMMAND" value="/usr/bin/php" />
-      <option name="PARAMETERS" value="test.php" />
+      <option name="PARAMETERS" value="task_runner.php" />
       <option name="WORKING_DIRECTORY" value="/srv/core/current/local_scripts" />
     </exec>
   </tool>
