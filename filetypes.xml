@@ -29,7 +29,6 @@
       <mapping pattern="shuffle" type="PLAIN_TEXT" />
       <mapping pattern="send me on my way" type="PLAIN_TEXT" />
       <mapping pattern="my generation" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="_region-select" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
