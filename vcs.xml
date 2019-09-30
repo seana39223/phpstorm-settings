@@ -290,6 +290,10 @@
           <option name="url" value="git@github.com:/designmynight/tonic-checkout.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="sean.anderson@theaccessgroup.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/GitHub/DesignMyNight" />
