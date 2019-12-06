@@ -4,8 +4,9 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="Dockerfile" />
-      <mapping ext="composer" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
+      <mapping ext="composer" type="Dockerfile" />
+      <removed_mapping ext="ejs" type="EJS" />
       <mapping pattern="vouchers-summary.html" type="HTML" />
       <mapping pattern="current-brand-switcher.html" type="HTML" />
       <mapping pattern="bookable-areas" type="HTML" />
