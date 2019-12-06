@@ -10,6 +10,7 @@
       <mapping pattern="current-brand-switcher.html" type="HTML" />
       <mapping pattern="bookable-areas" type="HTML" />
       <mapping pattern="navbar" type="HTML" />
+      <mapping ext="ejs" type="HTML" />
       <mapping pattern="contentToLabels" type="JSON" />
       <mapping ext="jdon" type="JSON" />
       <mapping pattern="TicketTypeEditor" type="JavaScript" />
