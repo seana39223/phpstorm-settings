@@ -38,6 +38,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="heigh-ho" type="PLAIN_TEXT" />
       <mapping pattern="send me on my way" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
