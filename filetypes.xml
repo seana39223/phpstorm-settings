@@ -13,8 +13,6 @@
       <mapping pattern="contentToLabels" type="JSON" />
       <mapping ext="jdon" type="JSON" />
       <mapping pattern="TicketTypeEditor" type="JavaScript" />
-      <mapping pattern="committing-to-git" type="Markdown" />
-      <mapping pattern="Add-Affiliate-User.md" type="Markdown" />
       <mapping pattern="committing-to-git.md" type="Native" />
       <mapping pattern="*.php.erb" type="PHP" />
       <mapping pattern="upaid-purchases-report" type="PHP" />
@@ -60,6 +58,7 @@
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="example" type="Bash" />
+      <mapping pattern="Add-Affiliate-User.md" type="Markdown" />
       <mapping pattern="Jenkinsfile" type="Bash" />
       <mapping pattern="Vagrantfile" type="Bash" />
       <mapping pattern="aws_helpers" type="Bash" />
@@ -68,6 +67,7 @@
       <mapping pattern="changedirectory" type="Bash" />
       <mapping pattern="collins" type="Bash" />
       <mapping pattern="command" type="Bash" />
+      <mapping pattern="committing-to-git" type="Markdown" />
       <mapping pattern="config" type="Bash" />
       <mapping pattern="dmn" type="Bash" />
       <mapping pattern="dockercompose" type="Bash" />
