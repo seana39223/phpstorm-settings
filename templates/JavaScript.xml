@@ -32,7 +32,7 @@
       <option name="JS_EXPRESSION" value="false" />
     </context>
   </template>
-  <template name="/s" value="/soda-api/${environment}/$END$" toReformat="false" toShortenFQNames="true">
+  <template name="/s" value="/soda-api/${environment}/$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSON_STRING_VALUES" value="true" />
     </context>
