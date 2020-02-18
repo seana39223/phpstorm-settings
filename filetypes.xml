@@ -12,6 +12,7 @@
       <mapping pattern="navbar" type="HTML" />
       <mapping pattern="contentToLabels" type="JSON" />
       <mapping ext="jdon" type="JSON" />
+      <mapping pattern="NewSearch" type="JavaScript" />
       <mapping pattern="TicketTypeEditor" type="JavaScript" />
       <mapping pattern="committing-to-git.md" type="Native" />
       <mapping pattern="*.php.erb" type="PHP" />
