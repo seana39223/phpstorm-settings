@@ -30,8 +30,8 @@
       <mapping pattern="servers.json" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="favourite-things" type="PLAIN_TEXT" />
-      <mapping pattern="We built this city" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
+      <mapping pattern="We built this city" type="PLAIN_TEXT" />
       <mapping pattern="my generation" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="heigh-ho" type="PLAIN_TEXT" />
@@ -43,9 +43,9 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="scss" type="Sass" />
       <mapping pattern="vhost.erb" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
