@@ -1,7 +1,12 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="shift l" />
   </action>
