@@ -31,6 +31,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="favourite-things" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
+      <mapping pattern="TestAuth.php" type="PLAIN_TEXT" />
       <mapping pattern="We built this city" type="PLAIN_TEXT" />
       <mapping pattern="my generation" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
