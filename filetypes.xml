@@ -20,6 +20,7 @@
       <mapping pattern="upaid-purchases-report" type="PHP" />
       <mapping pattern="24437-convert-yearly-fiscal-reports-to-date-range.php" type="PHP" />
       <mapping pattern="shuffle" type="PLAIN_TEXT" />
+      <mapping pattern="qa.yml" type="PLAIN_TEXT" />
       <mapping pattern="_region-select" type="PLAIN_TEXT" />
       <mapping pattern="bah" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
