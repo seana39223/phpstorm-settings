@@ -21,19 +21,19 @@
       <mapping pattern="24437-convert-yearly-fiscal-reports-to-date-range.php" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="_region-select" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="yes" type="PLAIN_TEXT" />
+      <mapping pattern="servers.json" type="PLAIN_TEXT" />
       <mapping pattern="heigh-ho" type="PLAIN_TEXT" />
       <mapping pattern="favourite-things" type="PLAIN_TEXT" />
-      <mapping pattern="servers.json" type="PLAIN_TEXT" />
       <mapping pattern="TestAuth.php" type="PLAIN_TEXT" />
       <mapping pattern="qa.yml" type="PLAIN_TEXT" />
       <mapping pattern="shuffle" type="PLAIN_TEXT" />
+      <mapping pattern="bah" type="PLAIN_TEXT" />
       <mapping pattern="my generation" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
-      <mapping pattern="bah" type="PLAIN_TEXT" />
       <mapping pattern="send me on my way" type="PLAIN_TEXT" />
       <mapping pattern="imadb" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
