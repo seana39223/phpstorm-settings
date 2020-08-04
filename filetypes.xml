@@ -2,52 +2,52 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="Dockerfile" />
-      <mapping ext="composer" type="Dockerfile" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
-      <mapping pattern="vouchers-summary.html" type="HTML" />
-      <mapping pattern="current-brand-switcher.html" type="HTML" />
-      <mapping pattern="bookable-areas" type="HTML" />
+      <mapping ext="composer" type="Dockerfile" />
       <mapping pattern="navbar" type="HTML" />
+      <mapping pattern="current-brand-switcher.html" type="HTML" />
+      <mapping pattern="vouchers-summary.html" type="HTML" />
+      <mapping pattern="bookable-areas" type="HTML" />
       <mapping pattern="contentToLabels" type="JSON" />
       <mapping ext="jdon" type="JSON" />
-      <mapping pattern="TicketTypeEditor" type="JavaScript" />
       <mapping pattern="NewSearch" type="JavaScript" />
+      <mapping pattern="TicketTypeEditor" type="JavaScript" />
       <mapping pattern="committing-to-git.md" type="Native" />
       <mapping pattern="*.php.erb" type="PHP" />
-      <mapping pattern="artisan" type="PHP" />
       <mapping pattern="upaid-purchases-report" type="PHP" />
+      <mapping pattern="artisan" type="PHP" />
       <mapping pattern="24437-convert-yearly-fiscal-reports-to-date-range.php" type="PHP" />
-      <mapping pattern="shuffle" type="PLAIN_TEXT" />
-      <mapping pattern="qa.yml" type="PLAIN_TEXT" />
-      <mapping pattern="_region-select" type="PLAIN_TEXT" />
-      <mapping pattern="bah" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="imadb" type="PLAIN_TEXT" />
-      <mapping pattern="yes" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping pattern="placeholder" type="PLAIN_TEXT" />
-      <mapping pattern="servers.json" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="favourite-things" type="PLAIN_TEXT" />
-      <mapping pattern="check" type="PLAIN_TEXT" />
-      <mapping pattern="TestAuth.php" type="PLAIN_TEXT" />
-      <mapping pattern="We built this city" type="PLAIN_TEXT" />
-      <mapping pattern="my generation" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="_region-select" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="yes" type="PLAIN_TEXT" />
       <mapping pattern="heigh-ho" type="PLAIN_TEXT" />
+      <mapping pattern="favourite-things" type="PLAIN_TEXT" />
+      <mapping pattern="servers.json" type="PLAIN_TEXT" />
+      <mapping pattern="TestAuth.php" type="PLAIN_TEXT" />
+      <mapping pattern="qa.yml" type="PLAIN_TEXT" />
+      <mapping pattern="shuffle" type="PLAIN_TEXT" />
+      <mapping pattern="my generation" type="PLAIN_TEXT" />
+      <mapping pattern="check" type="PLAIN_TEXT" />
+      <mapping pattern="bah" type="PLAIN_TEXT" />
       <mapping pattern="send me on my way" type="PLAIN_TEXT" />
+      <mapping pattern="imadb" type="PLAIN_TEXT" />
+      <mapping pattern="placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="We built this city" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="scss" type="Sass" />
       <mapping pattern="vhost.erb" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
