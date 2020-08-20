@@ -31,6 +31,7 @@
       <mapping pattern="TestAuth.php" type="PLAIN_TEXT" />
       <mapping pattern="qa.yml" type="PLAIN_TEXT" />
       <mapping pattern="shuffle" type="PLAIN_TEXT" />
+      <mapping pattern="GetEmailsFromBrands.php" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
       <mapping pattern="my generation" type="PLAIN_TEXT" />
       <mapping pattern="bah" type="PLAIN_TEXT" />
