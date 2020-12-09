@@ -5,7 +5,8 @@
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="0c7d94" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-653dedc0:1713afc5e8c:-8000" />
     <option name="version" value="5.5.0" />
   </component>
